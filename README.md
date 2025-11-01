@@ -209,3 +209,7 @@ This analysis supports:
 - Vaccination campaign effectiveness
 - Geographic risk assessment
 - Time-series forecasting
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
