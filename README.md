@@ -1,4 +1,4 @@
-# COVID-19 Data Exploration Project
+# COVID-19 Data Exploration 
 
 ## Overview
 This project analyzes COVID-19 mortality and vaccination trends across countries and continents to identify infection rates, death percentages, and vaccination progress using SQL Server.
